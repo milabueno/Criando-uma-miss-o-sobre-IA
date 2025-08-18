@@ -23,8 +23,8 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Usar uma ferramenta de busca da internet que tenha inteligência artificial para ajudar a achar informações importantes para o trabalho e explicar de um jeito mais compreencivo de entender."
-                afirmacao: "afirmação"
-            }
+                
+            },
             {
                 texto: "Fazer o trabalho usando as conversas que teve com os colegas, algumas pesquisas na internet e também o que eu já sabia sobre o assunto.",
                 afirmacao: "afirmação"
