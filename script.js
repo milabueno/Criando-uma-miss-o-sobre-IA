@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Agosto de 2025. Ainda na escola, vivemos um momento singular diante do avanço da Inteligência Artificial (IA). Sistemas digitais com a capacidade de produzirem textos, imagens e aúdios de forma tão realista que não somos capazes de diferenciar entre o humano e a IA tornou-se um grande desafio.Esse cenário impõe reflexões éticas, sociais e culturais, nos mostrando que a IA não é apenas uma ferramenta para nos auxiliar no dia a dia, mas sim, um agente capaz de transformar profundamente a vida em sociedade.Dessa forma, surge uma nova etapa histórica, na qual o mundo não retornará ao que era antes.",
         alternativas: [
             {
                 texto: "Isso é assustador!",
