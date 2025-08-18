@@ -19,27 +19,27 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, um professor de programação do colégio Marins, decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ele pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual serai a sua atitude?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Usar uma ferramenta de busca da internet que tenha inteligência artificial para ajudar a achar informações importantes para o trabalho e explicar de um jeito mais compreencivo de entender."
                 afirmacao: "afirmação"
-            },
+            }
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Fazer o trabalho usando as conversas que teve com os colegas, algumas pesquisas na internet e também o que eu já sabia sobre o assunto.",
                 afirmacao: "afirmação"
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Após a elaboração do trabalho escrito, o professor realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Defende a ideia de que a IA consegue criar novas oportunidades de emprego e aprimorar habilidades humanas.",
                 afirmacao: "afirmação"
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Se preocupa com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
                 afirmacao: "afirmação"
             }
         ]
@@ -48,7 +48,7 @@ const perguntas = [
         enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Criar uma imagem usando um apicativo de design como o Canva.",
                 afirmacao: "afirmação"
             },
             {
@@ -58,14 +58,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Você tem um trabalho em grupo de química para entregar na semana seguinte, o andamento do trabalho está um atrasado e uma pessoa do seu grupo decidiu fazer com ajuda do chat jpt. O problema é que o trabalho está totalmente igual ao do apicativo. O que você faz? ",
         alternativas: [
             {
                 texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
                 afirmacao: "afirmação"
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
+                texto: "O chat é uma tecnologia muito avançada, mas é preciso manter a atenção porque assim com qualquer outra máquina, ele também erra, por isso revisar o trabalho é extremamente importante.",
                 afirmacao: "afirmação"
             }
         ]
